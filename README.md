@@ -1,0 +1,1 @@
+This is just a simple java and jenkins integration project for learning jenkins.The java program is a simple code to say "Hello World". In the Build Triggers in Jenkins, an option of "Poll SCM" is used to track the changes in the github every 5 seconds.
